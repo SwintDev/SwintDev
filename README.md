@@ -1,4 +1,4 @@
-<img alt="Night Coding" font-size='30px' src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" align="center"/>
+<img alt="Night Coding" width='100%' heigth='200px' src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" align="center"/>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left" color='#a6e3a1'><h2>I'm SwintDev</h2>
 
