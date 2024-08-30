@@ -1,11 +1,12 @@
-<img alt="Night Coding" width='100%' height='540px' src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" align="center"/>
+<img alt="Night Coding" width='50%' height='50%' src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" align="center"/>
 
 <h2 align="center">I'm SwintDev</h2>
 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
- Hello! I'm David Posada
+ Hello! I'm David Posada.
+
 💻  Frontend Developer passionate about exploring new technologies and creating innovative software solutions.
 
 🎓  Backend Student: Currently, I'm deepening my knowledge in backend development with the goal of becoming a fullstack developer.
