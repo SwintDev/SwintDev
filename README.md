@@ -18,23 +18,24 @@ Hello! I'm David Posada.
 
 💬 &nbsp;**Open to Feedback and Suggestions:** I'm always available to discuss projects, collaborate, or exchange ideas.
 
-📧 &nbsp;**Contact Me:** You can email me at davidposada868@gmail.com. I'll do my best to respond as quickly as possible.
+📧 &nbsp;**Contact Me:** You can email me at [davidposada868@gmail.com](mailto:davidposada868@gmail.com). I'll do my best to respond as quickly as possible.
 
 ---
 
 ### 🛠 &nbsp;Tech Stack
 
-![Linux](https://img.shields.io/badge/-Linux-1e1e2e?style=flat&logo=linux&logoColor=f9e2af)&nbsp;
-![Python](https://img.shields.io/badge/-Python-1e1e2e?style=flat&logo=python&logoColor=89b4fa)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-1e1e2e?style=flat&logo=javascript&logoColor=f9e2af)&nbsp;
-![React](https://img.shields.io/badge/-React-1e1e2e?style=flat&logo=react&logoColor=89b4fa)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-1e1e2e?style=flat&logo=node.js&logoColor=a6e3a1)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-1e1e2e?style=flat&logo=flask&logoColor=cdd6f4)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-1e1e2e?style=flat&logo=bootstrap&logoColor=cba6f7)\
-![HTML](https://img.shields.io/badge/-HTML-1e1e2e?style=flat&logo=html5&logoColor=fab387)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-1e1e2e?style=flat&logo=css3&logoColor=89b4fa)&nbsp;
-![Git](https://img.shields.io/badge/-Git-1e1e2e?style=flat&logo=git&logoColor=ea6962)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-1e1e2e?style=flat&logo=github&logoColor=cdd6f4)&nbsp;
+🖥️ &nbsp;![Linux](https://img.shields.io/badge/-Linux-1e1e2e?style=flat&logo=linux&logoColor=f9e2af)&nbsp;
+🐍 &nbsp;![Python](https://img.shields.io/badge/-Python-1e1e2e?style=flat&logo=python&logoColor=89b4fa)&nbsp;
+🔧 &nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-1e1e2e?style=flat&logo=javascript&logoColor=f9e2af)&nbsp;
+⚛️ &nbsp;![React](https://img.shields.io/badge/-React-1e1e2e?style=flat&logo=react&logoColor=89b4fa)&nbsp;
+🔗 &nbsp;![Node.js](https://img.shields.io/badge/-Node.js-1e1e2e?style=flat&logo=node.js&logoColor=a6e3a1)&nbsp;
+⚙️ &nbsp;![Flask](https://img.shields.io/badge/-Flask-1e1e2e?style=flat&logo=flask&logoColor=cdd6f4)&nbsp;
+🎨 &nbsp;![Bootstrap](https://img.shields.io/badge/-Bootstrap-1e1e2e?style=flat&logo=bootstrap&logoColor=cba6f7)\
+🌐 &nbsp;![HTML](https://img.shields.io/badge/-HTML-1e1e2e?style=flat&logo=html5&logoColor=fab387)&nbsp;
+🎨 &nbsp;![CSS](https://img.shields.io/badge/-CSS-1e1e2e?style=flat&logo=css3&logoColor=89b4fa)&nbsp;
+🔧 &nbsp;![Git](https://img.shields.io/badge/-Git-1e1e2e?style=flat&logo=git&logoColor=ea6962)&nbsp;
+🐙 &nbsp;![GitHub](https://img.shields.io/badge/-GitHub-1e1e2e?style=flat&logo=github&logoColor=cdd6f4)&nbsp;
+✨ &nbsp;![Neovim](https://img.shields.io/badge/-Neovim-1e1e2e?style=flat&logo=neovim&logoColor=a6e3a1)
 
 ---
 
@@ -46,3 +47,4 @@ Hello! I'm David Posada.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SwintDev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
