@@ -1,8 +1,7 @@
-<img alt="Night Coding" width='100%' height='340px' src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" align="center"/>
+<img alt="Night Coding" width='100%' height='540px' src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" align="center"/>
 
-<h2 color='#a6e3a1'>I'm SwintDev</h2>
+<h2 align="center">I'm SwintDev</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -11,10 +10,8 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at [avsingh@umass.edu](mailto:avsingh@umass.edu)! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
-
-
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -32,10 +29,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/SwintDev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SwintDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SwintDev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
------
