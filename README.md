@@ -2,38 +2,41 @@
   <img alt="Night Coding" width="50%" height="50%" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 </div>
 
-
 <h2 align="center">I'm SwintDev</h2>
-
 
 ### 👨🏻‍💻 &nbsp;About Me
 
- Hello! I'm David Posada.
+Hello! I'm David Posada.
 
-💻  Frontend Developer passionate about exploring new technologies and creating innovative software solutions.
+💻 &nbsp;**Frontend Developer** passionate about exploring new technologies and creating innovative software solutions.
 
-🎓  Backend Student: Currently, I'm deepening my knowledge in backend development with the goal of becoming a fullstack developer.
+🎓 &nbsp;**Backend Student:** Currently, I'm deepening my knowledge in backend development with the goal of becoming a fullstack developer.
 
-🌱  Learning Systems Design and Cloud Architecture: I'm focused on acquiring key skills in modern software development.
+🌱 &nbsp;**Learning Systems Design and Cloud Architecture:** I'm focused on acquiring key skills in modern software development.
 
-✍️  Software Development and Blogging: In my free time, I enjoy software development and writing blogs to share knowledge.
+✍️ &nbsp;**Software Development and Blogging:** In my free time, I enjoy software development and writing blogs to share knowledge.
 
-💬  Open to Feedback and Suggestions: I'm always available to discuss projects, collaborate, or exchange ideas.
+💬 &nbsp;**Open to Feedback and Suggestions:** I'm always available to discuss projects, collaborate, or exchange ideas.
 
-📧  Contact Me: You can email me at davidposada868@gmail.com. I'll do my best to respond as quickly as possible.
+📧 &nbsp;**Contact Me:** You can email me at davidposada868@gmail.com. I'll do my best to respond as quickly as possible.
+
+---
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-313244?style=flat&logo=linux&logoColor=a6e3a1)&nbsp;
+![Python](https://img.shields.io/badge/-Python-313244?style=flat&logo=python&logoColor=f9e2af)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-313244?style=flat&logo=javascript&logoColor=fab387)&nbsp;
+![React](https://img.shields.io/badge/-React-313244?style=flat&logo=react&logoColor=89b4fa)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-313244?style=flat&logo=node.js&logoColor=a6e3a1)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-313244?style=flat&logo=flask&logoColor=f9e2af)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-313244?style=flat&logo=bootstrap&logoColor=cba6f7)\
+![HTML](https://img.shields.io/badge/-HTML-313244?style=flat&logo=html5&logoColor=fab387)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-313244?style=flat&logo=css3&logoColor=89b4fa)&nbsp;
+![Git](https://img.shields.io/badge/-Git-313244?style=flat&logo=git&logoColor=ea6962)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-313244?style=flat&logo=github&logoColor=b4befe)&nbsp;
+
+---
 
 ### ⚙️ &nbsp;GitHub Analytics
 
