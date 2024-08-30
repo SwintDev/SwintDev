@@ -24,17 +24,17 @@ Hello! I'm David Posada.
 
 ### 🛠 &nbsp;Tech Stack
 
-![Linux](https://img.shields.io/badge/-Linux-1e1e2e?style=flat&logo=linux&logoColor=a6e3a1)&nbsp;
-![Python](https://img.shields.io/badge/-Python-1e1e2e?style=flat&logo=python&logoColor=f9e2af)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-1e1e2e?style=flat&logo=javascript&logoColor=fab387)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-1e1e2e?style=flat&logo=linux&logoColor=f9e2af)&nbsp;
+![Python](https://img.shields.io/badge/-Python-1e1e2e?style=flat&logo=python&logoColor=89b4fa)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-1e1e2e?style=flat&logo=javascript&logoColor=f9e2af)&nbsp;
 ![React](https://img.shields.io/badge/-React-1e1e2e?style=flat&logo=react&logoColor=89b4fa)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-1e1e2e?style=flat&logo=node.js&logoColor=a6e3a1)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-1e1e2e?style=flat&logo=flask&logoColor=f9e2af)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-1e1e2e?style=flat&logo=flask&logoColor=cdd6f4)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1e1e2e?style=flat&logo=bootstrap&logoColor=cba6f7)\
 ![HTML](https://img.shields.io/badge/-HTML-1e1e2e?style=flat&logo=html5&logoColor=fab387)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1e1e2e?style=flat&logo=css3&logoColor=89b4fa)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-1e1e2e?style=flat&logo=git&logoColor=ea6962)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-1e1e2e?style=flat&logo=github&logoColor=b4befe)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-1e1e2e?style=flat&logo=github&logoColor=cdd6f4)&nbsp;
 
 ---
 
